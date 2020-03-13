@@ -5,3 +5,5 @@ This is a short script that combines AlignMix output into a PowerPoint presentat
 Let me know if you have any questions.
 
 Steve Maughan
+
+https://www.alignmix.com
